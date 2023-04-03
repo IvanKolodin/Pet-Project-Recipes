@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "kisspng-full-breakfast-toast-croissant-fried-egg-5b37c893abb977.4090565015303824837034.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "kisspng-full-breakfast-toast-croissant-fried-egg-5b37c893abb977.4090565015303824837034@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "kisspng-full-breakfast-toast-croissant-fried-egg-5b37c893abb977.4090565015303824837034@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
